@@ -1,4 +1,5 @@
 import { useState, useRef } from "react";
+//SIMULATE A MERGE
 
 const DragDropFiles = () => {
   const [files, setFiles] = useState(null);
